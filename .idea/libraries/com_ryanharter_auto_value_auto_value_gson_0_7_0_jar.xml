@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.ryanharter.auto.value:auto-value-gson:0.7.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ryanharter.auto.value/auto-value-gson/0.7.0/6b108e251babc1365e527a96b8dcd380e954c312/auto-value-gson-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ryanharter.auto.value/auto-value-gson/0.7.0/756f75752a1eeaaa41ce8e3277e3caa60fce1f31/auto-value-gson-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
